@@ -33,7 +33,7 @@ body {
   background-position: left 11px center;
 }
 .input-search {
-  background-image: url(/img/search.png);
+  background-image: url(./img/search.png);
   width: 306px;
   margin-left: auto;
 }
